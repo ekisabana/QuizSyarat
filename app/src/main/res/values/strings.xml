@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TTS</string>
+
+    <string name="soal">Masuk miring, keluar miring?</string>
+    <string name="clue">_ _ _ _ I _ _</string>
+    <string name="clues">KANCING</string>
+    <string name="submit">Submit</string>
+    <string name="help">Bantuan</string>
+
+    <string name="isi">Kamu yakin ingin menggunakan bantuan?</string>
+    <string name="yes">Yakin</string>
+    <string name="no">Kembali</string>
+
+    <string name="help1">K _ N _ I _ G</string>
+</resources>
